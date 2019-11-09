@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "id": "3691882",
+      "title": "NAVER Tech Talk: FE devtalk 15회 (2019년 9월)",
+      "createdAt": "2019.10.18",
+      "viewCount": 1493,
+      "thumbnail": "https://d2.naver.com/content/images/2019/10/Screenshot-2019-10-18-at-11-55-44.jpg",
+      "content": "NAVER에서는 다양한 FE 기술에 대한 테크톡을 주기적으로 진행하고 있는데요. 이번 FE devtalk 15회 주제는 \"UX Engineering\"으로 다음과 같은 발표들을 살펴보겠습니다. 해당 FE devtalk 중 발표자의 공개 동의를 얻은 영상을 공유합니다."
+    },
+    {
+      "id": "7663642",
+      "title": "NAVER Tech Talk: Android 밋업(2019년 7월)",
+      "createdAt": "2019.09.19",
+      "viewCount": 2031,
+      "thumbnail": "https://d2.naver.com/content/images/2019/09/----Meetup76_20190730_--------_--------mp4_20190919_155751-015.jpg",
+      "content": "NAVER에서는 다양한 기술에 대한 테크톡을 주기적으로 진행하고 있는데요. 2019년 7월에 진행한 사내 Android 밋업 중 발표자의 공개 동의를 얻은 발표 영상을 공유합니다."
+    }
+  ]
+}

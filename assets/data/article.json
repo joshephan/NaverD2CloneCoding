@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "id": "7975004",
+      "title": "2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2",
+      "createdAt": "2019.10.28",
+      "viewCount": 2511,
+      "thumbnail": "https://d2.naver.com/content/images/2019/11/helloworld-201909-jaesung-park_5-05.jpg",
+      "content": "이제 JavaScript는 프런트엔드에서만 작동하는 언어라고 말할 수 없습니다. 브라우저 영역에만 국한되지 않는 다양한 시도가 JavaScript의 활용성과 사용 범위를 넓히고 있습니다. \"2019년과 이후 JavaScript의 동향\" 시리즈의 마지막 글에서는 브라우저 밖의 JavaScript 생태계를 다루겠습니다.<br>마지막 글의 첫 번째 부분인 이 글에서는 브라우저 밖의 JavaScript 생태계에서 중요한 영역인 런타임과 패키지 관리자의 변화를 다루겠습니다.<br>서버사이드 JavaScript라는 새로운 영역을 개척하며 프런트엔드의 경계를 무너뜨린 런타임인 Node.js의 현재 상황과 향후 계획을 살펴보고, Node.js를 개발한 Ryan Dahl이 Node.js에 도전하며 새롭게 공개한 Deno를 살펴봅니다. 또한 큰 변화 없이 npm의 독주 체제가 유지되는 패키지 관리자와 레지스트리 영역의 변화를 살펴보겠습니다."
+    },
+    {
+      "id": "7700312",
+      "title": "2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1",
+      "createdAt": "2019.10.28",
+      "viewCount": 4853,
+      "thumbnail": "https://d2.naver.com/content/images/2019/10/helloworld-201909-jaesung-park_4-04-1.png",
+      "content": "브라우저 밖의 JavaScript 생태계를 다루는 \"2019년과 이후 JavaScript의 동향\" 시리즈의 마지막 글에서는 JavaScript가 사용되는 주요 영역의 변화를 다루려 노렸습니다. 하지만 글로 담기에 부족할 정도로 다루지 못한 영역이 많이 남아 있습니다.<br>브라우저 밖의 JavaScript 생태계를 다루는 글의 두 번째 부분인 이 글에서는 번들러와 네이티브 애플리케이션 영역, PWA의 변화를 살펴보겠습니다."
+    }
+  ]
+}

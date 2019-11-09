@@ -1,0 +1,24 @@
+{
+  "name": "naverd2clone",
+  "version": "1.0.0",
+  "description": "this is fake naver d2 site.",
+  "author": "sanghun Han",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.2",
+    "sass-loader": "^8.0.0",
+    "sass-resources-loader": "^2.0.1",
+    "vue": "^2.6.10",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "devDependencies": {}
+}
