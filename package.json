@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "lodash": "^4.17.15",
     "node-sass": "^4.13.0",
     "nuxt": "^2.0.0",
     "nuxt-buefy": "^0.3.2",
@@ -18,6 +19,7 @@
     "sass-resources-loader": "^2.0.1",
     "vue": "^2.6.10",
     "vue-owl-carousel": "^2.0.3",
+    "vue-scrollto": "^2.17.1",
     "vue-template-compiler": "^2.6.10"
   },
   "devDependencies": {}

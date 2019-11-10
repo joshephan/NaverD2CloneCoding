@@ -2,6 +2,10 @@ body {
   font-family: 'NanumBarunGothic', sans-serif;
 }
 
+main {
+  min-height: calc(100vh - 232px);  
+}
+
 .list-cover {
   overflow: hidden;
   max-width: 840px;

@@ -20,7 +20,7 @@
 
 <script>
 import Colorbanner from '@/components/Colorbanner';
-import Article from '@/components/Article';
+import Article from '@/components/card/Article';
 import newsList from "../assets/data/news.json";
 
 export default {

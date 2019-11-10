@@ -48,7 +48,7 @@ p {
   font-size: 17px;
 }
 @media (max-width:767px) {
-  .description {
+  .description, .bar {
     display: none;
   }
 }

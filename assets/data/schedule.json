@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "title": "NAVER TECH CONCERT",
+      "content": "Mobile 개발을 주제로 Android, iOS 컨퍼런스 진행",
+      "date": "19년 7월 11일~12일",
+      "link": "http://techcon.naver.com/",
+      "img": "https://d2.naver.com/static/img/app/about/thum_techconcert.png",
+      "isFinish": false
+    },
+    {
+      "title": "제 7회 NAVER D2 CAMPUS FEST",
+      "content": "대학생 오픈소스 경진대회",
+      "date": "19년 7월 말 접수 시작",
+      "link": "http://d2campusfest.kr/",
+      "img": "https://d2.naver.com/static/img/app/about/thum_d2campus.png",
+      "isFinish": false
+    },
+    {
+      "title": "DEVIEW",
+      "content": "네이버 개발자 컨퍼런스",
+      "date": "19년 10월 예정",
+      "link": null,
+      "img": "https://d2.naver.com/static/img/app/about/thum_deview.png",
+      "isFinish": false
+    },
+    {
+      "title": "NAVER TECH CONCERT",
+      "content": "Front-end 컨퍼런스",
+      "date": "19년 4월 11일",
+      "link": "http://techcon.naver.com/2019/fe/",
+      "img": "https://d2.naver.com/static/img/app/about/thum_techconcert.png",
+      "isFinish": true
+    },
+    {
+      "title": "NAVER CAMPUS HACKDAY SUMMER",
+      "content": "NAVER 개발자와 함께하는 24시간의 해커톤",
+      "date": "19년 3월 20일 ~ 4월 4일 신청<br>19년 5월 16일 ~ 17일 행사",
+      "link": "",
+      "img": "https://d2.naver.com/static/img/app/about/thum_hackday.png",
+      "isFinish": true
+    }
+  ]
+}

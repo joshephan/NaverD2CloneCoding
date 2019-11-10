@@ -13,6 +13,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap' },
+      { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css', type: "text/css" },
       { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumbarungothicsubset.css', type: 'text/css' }
     ]
   },
@@ -24,7 +26,6 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/assets/scss/bulma_override.scss',
     '@/assets/scss/global.scss'
   ],
   /*
@@ -44,6 +45,7 @@ export default {
   modules: [
     // Doc: https://buefy.github.io/#/documentation
     'nuxt-buefy',
+    'vue-scrollto/nuxt'
   ],
   /*
   ** Build configuration

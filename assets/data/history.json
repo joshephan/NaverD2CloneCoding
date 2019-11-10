@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "year": 2019,
+      "list": [
+        {
+          "title": "FRONT END 개발 주제",
+          "date": "2019.4.11",
+          "link": "http://techcon.naver.com/",
+          "linkTitle": "NAVER TECH CONCERT"
+        },
+        {
+          "title": "SUMMER HACKDAY 진행",
+          "date": "2019.5.16~17",
+          "link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20002666",
+          "linkTitle": "NAVER COMPUS HACKDAY"
+        }    
+      ]
+    },
+    {
+      "year": 2018,
+      "list": [
+        {
+          "title": "주제별 기술 공유 세미나<br>안드로이드 개발을 주제로 진행",
+          "date": "2018.11.1~2",
+          "link": "http://techcon.naver.com/",
+          "linkTitle": "NAVER TECH CONCERT:ANDROID"
+        },
+        {
+          "title": "AI, 딥러닝, 빅데이터, 검색, AR, 블록체인 주제 강의<br>xDM platform 공개",
+          "date": "2018.10.11~12",
+          "link": "http://deview.kr/2018/",
+          "linkTitle": "DEVIEW 2018"
+        }
+      ]
+    }
+  ]
+}
